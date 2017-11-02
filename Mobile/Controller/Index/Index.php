@@ -46,6 +46,7 @@ class Index extends \Magento\Framework\App\Action\Action
             $listBlock->setCurrentPage($currentPage);
         }
 
+
         //$this->_view->renderLayout();
         /** @var \Magento\Framework\View\Result\Page $resultPage */
         $resultPage = $this->resultPageFactory->create();

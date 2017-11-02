@@ -6,6 +6,6 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'Samsung_Mobile',
+    'Samsung_Mobile2',
     __DIR__
 );
